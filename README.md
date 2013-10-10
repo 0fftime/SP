@@ -1,4 +1,4 @@
-SP
+ServerPlugins
 ==
 
-Ruben en Wesley server plugins
+Waar Ruben en Wesley project files delen van de plugins die ze maken. Of nouja proberen te maken.
